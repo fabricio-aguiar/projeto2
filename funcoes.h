@@ -1,0 +1,10 @@
+void menu();
+void novo();
+void apaga();
+void debito();
+void deposito();
+void extrato();
+void transferencia();
+void salva_nomes();
+void listar();
+void sair();
